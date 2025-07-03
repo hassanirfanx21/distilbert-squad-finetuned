@@ -2,6 +2,7 @@
 
 A fine-tuned DistilBERT model for extractive question answering, trained on the Stanford Question Answering Dataset (SQuAD) v2.0.
 
+
 ## 📋 About
 
 This project fine-tunes a DistilBERT model for question answering tasks using the SQuAD v2.0 dataset from Hugging Face. DistilBERT is a lighter, faster version of BERT that maintains 97% of BERT's performance while being 60% smaller and faster.
